@@ -7,7 +7,7 @@ Desktop.ini
 $debug3/
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
-
+octree/
 # Windows Installer files
 *.cab
 *.msi
